@@ -60,7 +60,7 @@ The best-performing model is deployed as a user-friendly web app where users can
      - **Joblib**: Model saving and loading  
 
    - **Best Model**:  
-     - Linear Regression achieved an **R² score of 0.87**.  
+     - XGBOOST  achieved an **R² score of 0.87**.  
 
 4. **Web Application**:  
    Deployed using **Streamlit**. Users can input laptop specifications to get real-time price predictions.  
