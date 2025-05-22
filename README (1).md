@@ -49,10 +49,12 @@ The best-performing model is deployed as a user-friendly web app where users can
      - One-hot encoding for categorical variables  
 
    - **Model Training**:  
-     - Linear Regression  
+     - Linear Regression
+     - Ridge Regression
+     - Lasso Regression 
      - Random Forest Regressor  
-     - XGBoost (XGBRegressor)  
-     - Support Vector Regressor (SVR)  
+     - XGBoost 
+         
 
    - **Tools Used**:  
      - **Pandas**: Data manipulation  
